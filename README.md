@@ -3,7 +3,7 @@ Link: https://my-ecom-project-coral.vercel.app/
 
 
 TechStack
-Frontend: React , JavaScript , HTML , CSS
+Frontend: React , JavaScript , HTML , CSS , Typescript
 
 UI Library: Material UI (MUI)
 
